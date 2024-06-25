@@ -3,5 +3,6 @@ of artificial inteligence and machine learning models for providing solutions th
 and in the application of classical machine learning algorithms as well as feedforward neural networks. As an ever challenge driven person, I constantly 
 look to enhance my domain of these tools and I'm eager to collaborate on any exciting projects that implement them! 
 Feel free to contact me through my LinkIn profile or via email anytime:
+
 www.linkedin.com/in/dasarriag
 dasarriag@gmail.com
